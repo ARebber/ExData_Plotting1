@@ -1,3 +1,6 @@
+## Nota Bene
+For my personal description of the study assignemnt, please read MyReadMe.md !
+
 ## Introduction
 
 This assignment uses data from
